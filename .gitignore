@@ -9,3 +9,6 @@ agents.md
 
 # WorkBuddy 本地状态
 .workbuddy/
+
+# 路书配图的 base64 素材（已内嵌进成品 HTML，无需重复入库）
+b64.json
